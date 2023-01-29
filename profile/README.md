@@ -1,5 +1,7 @@
 # Swift Setup
 
+![cover](./cover.png)
+
 Swift Setup is a plugin-based app that offers a variety of plugins to streamline daily workflows. 
 Users can use the existing plugins for tasks such as image resizing or adding boilerplate templates to a folder. 
 Additionally, users can create their own plugins if none of the existing ones suit their needs.
